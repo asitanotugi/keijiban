@@ -1,0 +1,112 @@
+header{
+    width:100%;
+}
+
+.logo img{
+    width: 320px;
+    height:70px
+}
+.nav{
+    height: 40px;
+    background-color: black;
+}
+header ul{
+    line-height: 40px;
+    margin: 0px;
+}
+
+header li{
+    list-style: none;
+    float:left;
+    color: white;
+    padding: 0px 20px 0px 20px;
+    font-size: 12px;
+}
+
+.left{
+    float:left;
+    width:700px;
+}
+h1{
+    margin-top: 25px;
+    width:650px;
+    font-size:20px;
+    border-left: 5px solid black;
+    border-bottom: 2px solid black;
+    padding-left: 5px;
+}
+
+.formm{
+    border-left: 5px solid orangered;
+    font-size: 20px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+
+}
+.content{
+    background-color: whitesmoke;
+    border-radius: 5px;
+    border: 2px solid gainsboro;
+    width: 610px;
+    padding: 5px 20px 20px 20px;
+}
+
+.submit{
+    background-color: lightgray;
+    color: white;
+    border:1px solid lightgray;
+    border-radius: 5px;
+    border-bottom: 1px solid gray;
+}
+.box2{
+    border:1px solid lightgray;
+    border-radius: 5px;
+    color:gray;
+}
+.box{
+    color:  gray;
+}
+
+
+.right{
+    margin-top: 20px;
+    float:left;
+    width:300px;
+}
+.kiji{
+    border-bottom: 1px dotted black;
+    font-size:15px;
+}
+.right ul{
+    padding-left: 10px;
+}
+.right li{
+    list-style-type:none;
+    padding:5px 5px 5px 0px;
+    font-size: 5px;
+}
+
+.kijii{
+    background-color: whitesmoke;
+    border-radius: 5px;
+    border: 2px solid gainsboro;
+    width: 610px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 5px 20px 20px 20px;
+}
+h3{
+    border-bottom: 1px solid gainsboro;
+
+}
+footer{
+    clear: left;
+    width:100%;
+    margin-bottom: 5px;
+    line-height: 40px;
+    height:35px;
+    color:white;
+    background-color: black;
+    text-align: center;
+    font-size:12px;
+}
